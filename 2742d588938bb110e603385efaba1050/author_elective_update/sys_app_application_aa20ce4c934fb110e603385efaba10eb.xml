@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="DELETE">
+        <active>true</active>
+        <category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name/>
+        <order>100</order>
+        <roles/>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-06 20:46:14</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>aa20ce4c934fb110e603385efaba10eb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Listar Estoque</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Gestão de Inventário" source="x_812808_gest_o_0">2742d588938bb110e603385efaba1050</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Inventário">2742d588938bb110e603385efaba1050</sys_scope>
+        <sys_update_name>sys_app_application_aa20ce4c934fb110e603385efaba10eb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-06 20:46:14</sys_updated_on>
+        <title>Listar Estoque</title>
+        <view_name/>
+    </sys_app_application>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Gestão de Inventário">2742d588938bb110e603385efaba1050</application>
+        <file_path/>
+        <instance_id>a4357d2f1bf5b990ba5ceb9b2d4bcb8a</instance_id>
+        <instance_name>dev187821</instance_name>
+        <name>sys_app_application_aa20ce4c934fb110e603385efaba10eb</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application"><sys_app_application action="INSERT_OR_UPDATE"><active>true</active><category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category><description/><device_type>browser</device_type><hint/><name/><order>100</order><roles/><sys_class_name>sys_app_application</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-12-06 20:46:14</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>aa20ce4c934fb110e603385efaba10eb</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Listar Estoque</sys_name><sys_overrides/><sys_package display_value="Gestão de Inventário" source="x_812808_gest_o_0">2742d588938bb110e603385efaba1050</sys_package><sys_policy/><sys_scope display_value="Gestão de Inventário">2742d588938bb110e603385efaba1050</sys_scope><sys_update_name>sys_app_application_aa20ce4c934fb110e603385efaba10eb</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-12-06 20:46:14</sys_updated_on><title>Listar Estoque</title><view_name/></sys_app_application></record_update>]]></payload>
+        <payload_hash>-482896407</payload_hash>
+        <record_name>Listar Estoque</record_name>
+        <reverted_from/>
+        <source>7342d588938bb110e603385efaba1054</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-06 20:46:14</sys_created_on>
+        <sys_id>3e70064c934fb110e603385efaba103f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18c40e195180000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-06 20:46:14</sys_updated_on>
+        <type>Application Menu</type>
+        <update_guid>3270064c564fb1105486aa009308733f</update_guid>
+        <update_guid_history>3270064c564fb1105486aa009308733f:-482896407</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Listar Estoque">73b04e4c934fb110e603385efaba1009</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-06 20:47:24</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_application">sys_app_application</sys_db_object>
+        <sys_id>1b06b95ecf1543b59a13ceb9a01ce2a1</sys_id>
+        <sys_metadata>aa20ce4c934fb110e603385efaba10eb</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Listar Estoque</sys_name>
+        <sys_package display_value="Gestão de Inventário" source="x_812808_gest_o_0">2742d588938bb110e603385efaba1050</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Inventário">2742d588938bb110e603385efaba1050</sys_scope>
+        <sys_scope_delete display_value="">a59445773db347809e7cb6e47f563640</sys_scope_delete>
+        <sys_update_name>sys_app_application_aa20ce4c934fb110e603385efaba10eb</sys_update_name>
+        <sys_update_version display_value="sys_app_application_aa20ce4c934fb110e603385efaba10eb">3e70064c934fb110e603385efaba103f</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-06 20:47:24</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
